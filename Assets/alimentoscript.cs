@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class alimentoscript : MonoBehaviour
 {
+    public int valorAlimento;
     // Start is called before the first frame update
     void Start()
     {
